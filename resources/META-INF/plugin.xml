@@ -1,0 +1,25 @@
+<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
+<idea-plugin>
+  <id>io.ddiu8081.intellij.moegi-theme</id>
+  <version>0.0.1</version>
+  <name>Moegi Theme</name>
+  <category>UI</category>
+
+  <vendor email="ddiu8081@gmail.com" url="https://ddiu.io">Diu</vendor>
+  <idea-version since-build="202" />
+
+  <description><![CDATA[
+    An elegant theme for IntelliJ-based IDEs.
+  ]]></description>
+
+  <change-notes><![CDATA[
+    Initial release of the theme.
+  ]]></change-notes>
+
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <themeProvider id="moegi-dark" path="/theme/moegi-dark.theme.json"/>
+  </extensions>
+
+</idea-plugin>
