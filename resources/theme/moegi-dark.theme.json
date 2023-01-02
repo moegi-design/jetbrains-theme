@@ -3,6 +3,8 @@
   "author": "Diu",
   "dark": true,
 
+  "editorScheme": "/token/moegi-dark.xml",
+
   "ui": {
     "*": {
       "background": "#181818",
