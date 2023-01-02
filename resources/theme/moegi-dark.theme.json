@@ -30,10 +30,10 @@
 
       "errorForeground": "#ff8787",
 
-      "borderColor": "#ffffff15",
+      "borderColor": "#303030",
       "disabledBorderColor": "#ffffff10",
       "focusColor": "#ffffff10",
-      "focusedBorderColor": "#ffffff3f",
+      "focusedBorderColor": "#ffffff15",
       "hoverBorderColor": "#444444",
       "pressedBorderColor": "#444444",
 
@@ -63,18 +63,18 @@
     },
 
     "Borders": {
-      "color": "#ffffff15",
-      "ContrastBorderColor": "#ffffff15"
+      "color": "#303030",
+      "ContrastBorderColor": "#303030"
     },
 
     "ComboBox": {
-      "nonEditableBackground": "#262626",
+      "nonEditableBackground": "#212121",
       "modifiedItemForeground": "#e7d38f",
 
       "ArrowButton": {
         "iconColor": "#999999",
         "disabledIconColor": "#444444",
-        "nonEditableBackground": "#444444"
+        "nonEditableBackground": "#212121"
       }
     },
 
