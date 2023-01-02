@@ -246,8 +246,8 @@
       "inactiveBorderColor": "#e6e6e6",
       "Toolbar.borderColor": "#b3b3b3",
       "separatorForeground": "#FFFFFF",
-      "Header.activeBackground": "#191919",
-      "Header.inactiveBackground": "#191919",
+      "Header.activeBackground": "#181818",
+      "Header.inactiveBackground": "#181818",
       "Advertiser": {
         "background": "#212121",
         "borderColor": "#ffffff15",
@@ -279,14 +279,14 @@
         "thumbBorderColor": "#2e2e2e",
         "hoverThumbColor": "#444444",
         "hoverThumbBorderColor": "#444444",
-        "hoverTrackColor": "#191919"
+        "hoverTrackColor": "#181818"
       },
       "thumbColor": "#2e2e2e",
       "thumbBorderColor": "#2e2e2e",
       "hoverThumbColor": "#444444",
       "hoverThumbBorderColor": "#444444",
-      "trackColor": "#191919",
-      "hoverTrackColor": "#191919",
+      "trackColor": "#181818",
+      "hoverTrackColor": "#181818",
 
       "Mac": {
         "Transparent": {
@@ -294,14 +294,14 @@
           "thumbBorderColor": "#2e2e2e",
           "hoverThumbColor": "#444444",
           "hoverThumbBorderColor": "#444444",
-          "hoverTrackColor": "#191919"
+          "hoverTrackColor": "#181818"
         },
         "thumbColor": "#2e2e2e",
         "thumbBorderColor": "#2e2e2e",
         "hoverThumbColor": "#444444",
         "hoverThumbBorderColor": "#444444",
-        "trackColor": "#191919",
-        "hoverTrackColor": "#191919"
+        "trackColor": "#181818",
+        "hoverTrackColor": "#181818"
       }
     },
 
@@ -361,8 +361,8 @@
 
     "ToolWindow": {
       "Header": {
-        "background": "#2b2b2b",
-        "inactiveBackground": "#212121"
+        "background": "#181818",
+        "inactiveBackground": "#1c1c1c"
       },
 
       "HeaderTab": {
@@ -409,7 +409,7 @@
 
     "WelcomeScreen": {
       "separatorColor": "#ffffff2f",
-      "SidePanel.background": "#191919",
+      "SidePanel.background": "#181818",
       "Details.background": "#212121"
     },
 
@@ -432,7 +432,7 @@
 
     "RunWidget" : {
       "foreground": "#ffffff",
-      "background": "#191919",
+      "background": "#181818",
       "runningBackground": "#66b3959f",
       "hoverBackground": "#0000001f",
       "pressedBackground": "#00000028",

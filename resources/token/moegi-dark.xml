@@ -11,7 +11,7 @@
     <option name="ANNOTATIONS_COLOR" value="8d9199" />
     <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="ced0d6" />
     <option name="CARET_COLOR" value="ff8787" />
-    <option name="CARET_ROW_COLOR" value="2e2e2e" />
+    <option name="CARET_ROW_COLOR" value="2c2c2c" />
     <option name="CONSOLE_BACKGROUND_KEY" value="181818" />
     <option name="DELETED_LINES_COLOR" value="ff8787af" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="2b2d30" />
@@ -42,7 +42,6 @@
     <option name="RECENT_LOCATIONS_SELECTION" value="2e2e2e" />
     <option name="RIGHT_MARGIN_COLOR" value="3e3e3e" />
     <option name="SELECTED_INDENT_GUIDE" value="666666" />
-    <option name="SELECTION_BACKGROUND" value="ffffff1f" />
     <option name="ScrollBar.Mac.hoverThumbColor" value="ffffff4d" />
     <option name="ScrollBar.Mac.thumbColor" value="ffffff26" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="2f5194" />
@@ -54,6 +53,7 @@
     <option name="WARNING_HINT" value="404040" />
     <option name="WHITESPACES" value="666666" />
     <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="7098d4af" />
+    <option name="SELECTION_BACKGROUND" value="404040" />
   </colors>
   <attributes>
     <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
